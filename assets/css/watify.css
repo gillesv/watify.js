@@ -1,0 +1,1116 @@
+/*
+ *	Watify.js
+ *
+ *	Image based fallback
+ */
+.wavefunction.fallback {
+  text-indent: -5000em;
+  overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.wavefunction.fallback.b {
+  background-color: #3a90c1;
+}
+.wavefunction.fallback.b.transparent {
+  background-color: transparent;
+}
+.wavefunction.fallback.b.typo_1.large.v00 {
+  background-image: url('../img/fallback/l/typo_1/b-00.png');
+}
+.wavefunction.fallback.b.typo_1.large.v01 {
+  background-image: url('../img/fallback/l/typo_1/b-01.png');
+}
+.wavefunction.fallback.b.typo_1.large.v02 {
+  background-image: url('../img/fallback/l/typo_1/b-02.png');
+}
+.wavefunction.fallback.b.typo_1.large.v03 {
+  background-image: url('../img/fallback/l/typo_1/b-03.png');
+}
+.wavefunction.fallback.b.typo_1.large.v04 {
+  background-image: url('../img/fallback/l/typo_1/b-04.png');
+}
+.wavefunction.fallback.b.typo_1.large.v05 {
+  background-image: url('../img/fallback/l/typo_1/b-05.png');
+}
+.wavefunction.fallback.b.typo_1.large.v06 {
+  background-image: url('../img/fallback/l/typo_1/b-06.png');
+}
+.wavefunction.fallback.b.typo_1.large.v07 {
+  background-image: url('../img/fallback/l/typo_1/b-07.png');
+}
+.wavefunction.fallback.b.typo_1.large.v08 {
+  background-image: url('../img/fallback/l/typo_1/b-08.png');
+}
+.wavefunction.fallback.b.typo_1.large.v09 {
+  background-image: url('../img/fallback/l/typo_1/b-09.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v00 {
+  background-image: url('../img/fallback/m/typo_1/b-00.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v01 {
+  background-image: url('../img/fallback/m/typo_1/b-01.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v02 {
+  background-image: url('../img/fallback/m/typo_1/b-02.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v03 {
+  background-image: url('../img/fallback/m/typo_1/b-03.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v04 {
+  background-image: url('../img/fallback/m/typo_1/b-04.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v05 {
+  background-image: url('../img/fallback/m/typo_1/b-05.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v06 {
+  background-image: url('../img/fallback/m/typo_1/b-06.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v07 {
+  background-image: url('../img/fallback/m/typo_1/b-07.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v08 {
+  background-image: url('../img/fallback/m/typo_1/b-08.png');
+}
+.wavefunction.fallback.b.typo_1.medium.v09 {
+  background-image: url('../img/fallback/m/typo_1/b-09.png');
+}
+.wavefunction.fallback.b.typo_1.small.v00 {
+  background-image: url('../img/fallback/s/typo_1/b-00.png');
+}
+.wavefunction.fallback.b.typo_1.small.v01 {
+  background-image: url('../img/fallback/s/typo_1/b-01.png');
+}
+.wavefunction.fallback.b.typo_1.small.v02 {
+  background-image: url('../img/fallback/s/typo_1/b-02.png');
+}
+.wavefunction.fallback.b.typo_1.small.v03 {
+  background-image: url('../img/fallback/s/typo_1/b-03.png');
+}
+.wavefunction.fallback.b.typo_1.small.v04 {
+  background-image: url('../img/fallback/s/typo_1/b-04.png');
+}
+.wavefunction.fallback.b.typo_1.small.v05 {
+  background-image: url('../img/fallback/s/typo_1/b-05.png');
+}
+.wavefunction.fallback.b.typo_1.small.v06 {
+  background-image: url('../img/fallback/s/typo_1/b-06.png');
+}
+.wavefunction.fallback.b.typo_1.small.v07 {
+  background-image: url('../img/fallback/s/typo_1/b-07.png');
+}
+.wavefunction.fallback.b.typo_1.small.v08 {
+  background-image: url('../img/fallback/s/typo_1/b-08.png');
+}
+.wavefunction.fallback.b.typo_1.small.v09 {
+  background-image: url('../img/fallback/s/typo_1/b-09.png');
+}
+.wavefunction.fallback.b.typo_2.large.v00 {
+  background-image: url('../img/fallback/l/typo_2/b-00.png');
+}
+.wavefunction.fallback.b.typo_2.large.v01 {
+  background-image: url('../img/fallback/l/typo_2/b-01.png');
+}
+.wavefunction.fallback.b.typo_2.large.v02 {
+  background-image: url('../img/fallback/l/typo_2/b-02.png');
+}
+.wavefunction.fallback.b.typo_2.large.v03 {
+  background-image: url('../img/fallback/l/typo_2/b-03.png');
+}
+.wavefunction.fallback.b.typo_2.large.v04 {
+  background-image: url('../img/fallback/l/typo_2/b-04.png');
+}
+.wavefunction.fallback.b.typo_2.large.v05 {
+  background-image: url('../img/fallback/l/typo_2/b-05.png');
+}
+.wavefunction.fallback.b.typo_2.large.v06 {
+  background-image: url('../img/fallback/l/typo_2/b-06.png');
+}
+.wavefunction.fallback.b.typo_2.large.v07 {
+  background-image: url('../img/fallback/l/typo_2/b-07.png');
+}
+.wavefunction.fallback.b.typo_2.large.v08 {
+  background-image: url('../img/fallback/l/typo_2/b-08.png');
+}
+.wavefunction.fallback.b.typo_2.large.v09 {
+  background-image: url('../img/fallback/l/typo_2/b-09.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v00 {
+  background-image: url('../img/fallback/m/typo_2/b-00.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v01 {
+  background-image: url('../img/fallback/m/typo_2/b-01.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v02 {
+  background-image: url('../img/fallback/m/typo_2/b-02.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v03 {
+  background-image: url('../img/fallback/m/typo_2/b-03.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v04 {
+  background-image: url('../img/fallback/m/typo_2/b-04.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v05 {
+  background-image: url('../img/fallback/m/typo_2/b-05.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v06 {
+  background-image: url('../img/fallback/m/typo_2/b-06.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v07 {
+  background-image: url('../img/fallback/m/typo_2/b-07.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v08 {
+  background-image: url('../img/fallback/m/typo_2/b-08.png');
+}
+.wavefunction.fallback.b.typo_2.medium.v09 {
+  background-image: url('../img/fallback/m/typo_2/b-09.png');
+}
+.wavefunction.fallback.b.typo_2.small.v00 {
+  background-image: url('../img/fallback/s/typo_2/b-00.png');
+}
+.wavefunction.fallback.b.typo_2.small.v01 {
+  background-image: url('../img/fallback/s/typo_2/b-01.png');
+}
+.wavefunction.fallback.b.typo_2.small.v02 {
+  background-image: url('../img/fallback/s/typo_2/b-02.png');
+}
+.wavefunction.fallback.b.typo_2.small.v03 {
+  background-image: url('../img/fallback/s/typo_2/b-03.png');
+}
+.wavefunction.fallback.b.typo_2.small.v04 {
+  background-image: url('../img/fallback/s/typo_2/b-04.png');
+}
+.wavefunction.fallback.b.typo_2.small.v05 {
+  background-image: url('../img/fallback/s/typo_2/b-05.png');
+}
+.wavefunction.fallback.b.typo_2.small.v06 {
+  background-image: url('../img/fallback/s/typo_2/b-06.png');
+}
+.wavefunction.fallback.b.typo_2.small.v07 {
+  background-image: url('../img/fallback/s/typo_2/b-07.png');
+}
+.wavefunction.fallback.b.typo_2.small.v08 {
+  background-image: url('../img/fallback/s/typo_2/b-08.png');
+}
+.wavefunction.fallback.b.typo_2.small.v09 {
+  background-image: url('../img/fallback/s/typo_2/b-09.png');
+}
+.wavefunction.fallback.b.blank.large.v00 {
+  background-image: url('../img/fallback/l/blank/b-00.png');
+}
+.wavefunction.fallback.b.blank.large.v01 {
+  background-image: url('../img/fallback/l/blank/b-01.png');
+}
+.wavefunction.fallback.b.blank.large.v02 {
+  background-image: url('../img/fallback/l/blank/b-02.png');
+}
+.wavefunction.fallback.b.blank.large.v03 {
+  background-image: url('../img/fallback/l/blank/b-03.png');
+}
+.wavefunction.fallback.b.blank.large.v04 {
+  background-image: url('../img/fallback/l/blank/b-04.png');
+}
+.wavefunction.fallback.b.blank.large.v05 {
+  background-image: url('../img/fallback/l/blank/b-05.png');
+}
+.wavefunction.fallback.b.blank.large.v06 {
+  background-image: url('../img/fallback/l/blank/b-06.png');
+}
+.wavefunction.fallback.b.blank.large.v07 {
+  background-image: url('../img/fallback/l/blank/b-07.png');
+}
+.wavefunction.fallback.b.blank.large.v08 {
+  background-image: url('../img/fallback/l/blank/b-08.png');
+}
+.wavefunction.fallback.b.blank.large.v09 {
+  background-image: url('../img/fallback/l/blank/b-09.png');
+}
+.wavefunction.fallback.b.blank.medium.v00 {
+  background-image: url('../img/fallback/m/blank/b-00.png');
+}
+.wavefunction.fallback.b.blank.medium.v01 {
+  background-image: url('../img/fallback/m/blank/b-01.png');
+}
+.wavefunction.fallback.b.blank.medium.v02 {
+  background-image: url('../img/fallback/m/blank/b-02.png');
+}
+.wavefunction.fallback.b.blank.medium.v03 {
+  background-image: url('../img/fallback/m/blank/b-03.png');
+}
+.wavefunction.fallback.b.blank.medium.v04 {
+  background-image: url('../img/fallback/m/blank/b-04.png');
+}
+.wavefunction.fallback.b.blank.medium.v05 {
+  background-image: url('../img/fallback/m/blank/b-05.png');
+}
+.wavefunction.fallback.b.blank.medium.v06 {
+  background-image: url('../img/fallback/m/blank/b-06.png');
+}
+.wavefunction.fallback.b.blank.medium.v07 {
+  background-image: url('../img/fallback/m/blank/b-07.png');
+}
+.wavefunction.fallback.b.blank.medium.v08 {
+  background-image: url('../img/fallback/m/blank/b-08.png');
+}
+.wavefunction.fallback.b.blank.medium.v09 {
+  background-image: url('../img/fallback/m/blank/b-09.png');
+}
+.wavefunction.fallback.b.blank.small.v00 {
+  background-image: url('../img/fallback/s/blank/b-00.png');
+}
+.wavefunction.fallback.b.blank.small.v01 {
+  background-image: url('../img/fallback/s/blank/b-01.png');
+}
+.wavefunction.fallback.b.blank.small.v02 {
+  background-image: url('../img/fallback/s/blank/b-02.png');
+}
+.wavefunction.fallback.b.blank.small.v03 {
+  background-image: url('../img/fallback/s/blank/b-03.png');
+}
+.wavefunction.fallback.b.blank.small.v04 {
+  background-image: url('../img/fallback/s/blank/b-04.png');
+}
+.wavefunction.fallback.b.blank.small.v05 {
+  background-image: url('../img/fallback/s/blank/b-05.png');
+}
+.wavefunction.fallback.b.blank.small.v06 {
+  background-image: url('../img/fallback/s/blank/b-06.png');
+}
+.wavefunction.fallback.b.blank.small.v07 {
+  background-image: url('../img/fallback/s/blank/b-07.png');
+}
+.wavefunction.fallback.b.blank.small.v08 {
+  background-image: url('../img/fallback/s/blank/b-08.png');
+}
+.wavefunction.fallback.b.blank.small.v09 {
+  background-image: url('../img/fallback/s/blank/b-09.png');
+}
+.wavefunction.fallback.g {
+  background-color: #00a285;
+}
+.wavefunction.fallback.g.transparent {
+  background-color: transparent;
+}
+.wavefunction.fallback.g.typo_1.large.v00 {
+  background-image: url('../img/fallback/l/typo_1/g-00.png');
+}
+.wavefunction.fallback.g.typo_1.large.v01 {
+  background-image: url('../img/fallback/l/typo_1/g-01.png');
+}
+.wavefunction.fallback.g.typo_1.large.v02 {
+  background-image: url('../img/fallback/l/typo_1/g-02.png');
+}
+.wavefunction.fallback.g.typo_1.large.v03 {
+  background-image: url('../img/fallback/l/typo_1/g-03.png');
+}
+.wavefunction.fallback.g.typo_1.large.v04 {
+  background-image: url('../img/fallback/l/typo_1/g-04.png');
+}
+.wavefunction.fallback.g.typo_1.large.v05 {
+  background-image: url('../img/fallback/l/typo_1/g-05.png');
+}
+.wavefunction.fallback.g.typo_1.large.v06 {
+  background-image: url('../img/fallback/l/typo_1/g-06.png');
+}
+.wavefunction.fallback.g.typo_1.large.v07 {
+  background-image: url('../img/fallback/l/typo_1/g-07.png');
+}
+.wavefunction.fallback.g.typo_1.large.v08 {
+  background-image: url('../img/fallback/l/typo_1/g-08.png');
+}
+.wavefunction.fallback.g.typo_1.large.v09 {
+  background-image: url('../img/fallback/l/typo_1/g-09.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v00 {
+  background-image: url('../img/fallback/m/typo_1/g-00.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v01 {
+  background-image: url('../img/fallback/m/typo_1/g-01.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v02 {
+  background-image: url('../img/fallback/m/typo_1/g-02.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v03 {
+  background-image: url('../img/fallback/m/typo_1/g-03.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v04 {
+  background-image: url('../img/fallback/m/typo_1/g-04.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v05 {
+  background-image: url('../img/fallback/m/typo_1/g-05.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v06 {
+  background-image: url('../img/fallback/m/typo_1/g-06.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v07 {
+  background-image: url('../img/fallback/m/typo_1/g-07.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v08 {
+  background-image: url('../img/fallback/m/typo_1/g-08.png');
+}
+.wavefunction.fallback.g.typo_1.medium.v09 {
+  background-image: url('../img/fallback/m/typo_1/g-09.png');
+}
+.wavefunction.fallback.g.typo_1.small.v00 {
+  background-image: url('../img/fallback/s/typo_1/g-00.png');
+}
+.wavefunction.fallback.g.typo_1.small.v01 {
+  background-image: url('../img/fallback/s/typo_1/g-01.png');
+}
+.wavefunction.fallback.g.typo_1.small.v02 {
+  background-image: url('../img/fallback/s/typo_1/g-02.png');
+}
+.wavefunction.fallback.g.typo_1.small.v03 {
+  background-image: url('../img/fallback/s/typo_1/g-03.png');
+}
+.wavefunction.fallback.g.typo_1.small.v04 {
+  background-image: url('../img/fallback/s/typo_1/g-04.png');
+}
+.wavefunction.fallback.g.typo_1.small.v05 {
+  background-image: url('../img/fallback/s/typo_1/g-05.png');
+}
+.wavefunction.fallback.g.typo_1.small.v06 {
+  background-image: url('../img/fallback/s/typo_1/g-06.png');
+}
+.wavefunction.fallback.g.typo_1.small.v07 {
+  background-image: url('../img/fallback/s/typo_1/g-07.png');
+}
+.wavefunction.fallback.g.typo_1.small.v08 {
+  background-image: url('../img/fallback/s/typo_1/g-08.png');
+}
+.wavefunction.fallback.g.typo_1.small.v09 {
+  background-image: url('../img/fallback/s/typo_1/g-09.png');
+}
+.wavefunction.fallback.g.typo_2.large.v00 {
+  background-image: url('../img/fallback/l/typo_2/g-00.png');
+}
+.wavefunction.fallback.g.typo_2.large.v01 {
+  background-image: url('../img/fallback/l/typo_2/g-01.png');
+}
+.wavefunction.fallback.g.typo_2.large.v02 {
+  background-image: url('../img/fallback/l/typo_2/g-02.png');
+}
+.wavefunction.fallback.g.typo_2.large.v03 {
+  background-image: url('../img/fallback/l/typo_2/g-03.png');
+}
+.wavefunction.fallback.g.typo_2.large.v04 {
+  background-image: url('../img/fallback/l/typo_2/g-04.png');
+}
+.wavefunction.fallback.g.typo_2.large.v05 {
+  background-image: url('../img/fallback/l/typo_2/g-05.png');
+}
+.wavefunction.fallback.g.typo_2.large.v06 {
+  background-image: url('../img/fallback/l/typo_2/g-06.png');
+}
+.wavefunction.fallback.g.typo_2.large.v07 {
+  background-image: url('../img/fallback/l/typo_2/g-07.png');
+}
+.wavefunction.fallback.g.typo_2.large.v08 {
+  background-image: url('../img/fallback/l/typo_2/g-08.png');
+}
+.wavefunction.fallback.g.typo_2.large.v09 {
+  background-image: url('../img/fallback/l/typo_2/g-09.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v00 {
+  background-image: url('../img/fallback/m/typo_2/g-00.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v01 {
+  background-image: url('../img/fallback/m/typo_2/g-01.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v02 {
+  background-image: url('../img/fallback/m/typo_2/g-02.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v03 {
+  background-image: url('../img/fallback/m/typo_2/g-03.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v04 {
+  background-image: url('../img/fallback/m/typo_2/g-04.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v05 {
+  background-image: url('../img/fallback/m/typo_2/g-05.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v06 {
+  background-image: url('../img/fallback/m/typo_2/g-06.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v07 {
+  background-image: url('../img/fallback/m/typo_2/g-07.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v08 {
+  background-image: url('../img/fallback/m/typo_2/g-08.png');
+}
+.wavefunction.fallback.g.typo_2.medium.v09 {
+  background-image: url('../img/fallback/m/typo_2/g-09.png');
+}
+.wavefunction.fallback.g.typo_2.small.v00 {
+  background-image: url('../img/fallback/s/typo_2/g-00.png');
+}
+.wavefunction.fallback.g.typo_2.small.v01 {
+  background-image: url('../img/fallback/s/typo_2/g-01.png');
+}
+.wavefunction.fallback.g.typo_2.small.v02 {
+  background-image: url('../img/fallback/s/typo_2/g-02.png');
+}
+.wavefunction.fallback.g.typo_2.small.v03 {
+  background-image: url('../img/fallback/s/typo_2/g-03.png');
+}
+.wavefunction.fallback.g.typo_2.small.v04 {
+  background-image: url('../img/fallback/s/typo_2/g-04.png');
+}
+.wavefunction.fallback.g.typo_2.small.v05 {
+  background-image: url('../img/fallback/s/typo_2/g-05.png');
+}
+.wavefunction.fallback.g.typo_2.small.v06 {
+  background-image: url('../img/fallback/s/typo_2/g-06.png');
+}
+.wavefunction.fallback.g.typo_2.small.v07 {
+  background-image: url('../img/fallback/s/typo_2/g-07.png');
+}
+.wavefunction.fallback.g.typo_2.small.v08 {
+  background-image: url('../img/fallback/s/typo_2/g-08.png');
+}
+.wavefunction.fallback.g.typo_2.small.v09 {
+  background-image: url('../img/fallback/s/typo_2/g-09.png');
+}
+.wavefunction.fallback.g.blank.large.v00 {
+  background-image: url('../img/fallback/l/blank/g-00.png');
+}
+.wavefunction.fallback.g.blank.large.v01 {
+  background-image: url('../img/fallback/l/blank/g-01.png');
+}
+.wavefunction.fallback.g.blank.large.v02 {
+  background-image: url('../img/fallback/l/blank/g-02.png');
+}
+.wavefunction.fallback.g.blank.large.v03 {
+  background-image: url('../img/fallback/l/blank/g-03.png');
+}
+.wavefunction.fallback.g.blank.large.v04 {
+  background-image: url('../img/fallback/l/blank/g-04.png');
+}
+.wavefunction.fallback.g.blank.large.v05 {
+  background-image: url('../img/fallback/l/blank/g-05.png');
+}
+.wavefunction.fallback.g.blank.large.v06 {
+  background-image: url('../img/fallback/l/blank/g-06.png');
+}
+.wavefunction.fallback.g.blank.large.v07 {
+  background-image: url('../img/fallback/l/blank/g-07.png');
+}
+.wavefunction.fallback.g.blank.large.v08 {
+  background-image: url('../img/fallback/l/blank/g-08.png');
+}
+.wavefunction.fallback.g.blank.large.v09 {
+  background-image: url('../img/fallback/l/blank/g-09.png');
+}
+.wavefunction.fallback.g.blank.medium.v00 {
+  background-image: url('../img/fallback/m/blank/g-00.png');
+}
+.wavefunction.fallback.g.blank.medium.v01 {
+  background-image: url('../img/fallback/m/blank/g-01.png');
+}
+.wavefunction.fallback.g.blank.medium.v02 {
+  background-image: url('../img/fallback/m/blank/g-02.png');
+}
+.wavefunction.fallback.g.blank.medium.v03 {
+  background-image: url('../img/fallback/m/blank/g-03.png');
+}
+.wavefunction.fallback.g.blank.medium.v04 {
+  background-image: url('../img/fallback/m/blank/g-04.png');
+}
+.wavefunction.fallback.g.blank.medium.v05 {
+  background-image: url('../img/fallback/m/blank/g-05.png');
+}
+.wavefunction.fallback.g.blank.medium.v06 {
+  background-image: url('../img/fallback/m/blank/g-06.png');
+}
+.wavefunction.fallback.g.blank.medium.v07 {
+  background-image: url('../img/fallback/m/blank/g-07.png');
+}
+.wavefunction.fallback.g.blank.medium.v08 {
+  background-image: url('../img/fallback/m/blank/g-08.png');
+}
+.wavefunction.fallback.g.blank.medium.v09 {
+  background-image: url('../img/fallback/m/blank/g-09.png');
+}
+.wavefunction.fallback.g.blank.small.v00 {
+  background-image: url('../img/fallback/s/blank/g-00.png');
+}
+.wavefunction.fallback.g.blank.small.v01 {
+  background-image: url('../img/fallback/s/blank/g-01.png');
+}
+.wavefunction.fallback.g.blank.small.v02 {
+  background-image: url('../img/fallback/s/blank/g-02.png');
+}
+.wavefunction.fallback.g.blank.small.v03 {
+  background-image: url('../img/fallback/s/blank/g-03.png');
+}
+.wavefunction.fallback.g.blank.small.v04 {
+  background-image: url('../img/fallback/s/blank/g-04.png');
+}
+.wavefunction.fallback.g.blank.small.v05 {
+  background-image: url('../img/fallback/s/blank/g-05.png');
+}
+.wavefunction.fallback.g.blank.small.v06 {
+  background-image: url('../img/fallback/s/blank/g-06.png');
+}
+.wavefunction.fallback.g.blank.small.v07 {
+  background-image: url('../img/fallback/s/blank/g-07.png');
+}
+.wavefunction.fallback.g.blank.small.v08 {
+  background-image: url('../img/fallback/s/blank/g-08.png');
+}
+.wavefunction.fallback.g.blank.small.v09 {
+  background-image: url('../img/fallback/s/blank/g-09.png');
+}
+.wavefunction.fallback.r {
+  background-color: #e51935;
+}
+.wavefunction.fallback.r.transparent {
+  background-color: transparent;
+}
+.wavefunction.fallback.r.typo_1.large.v00 {
+  background-image: url('../img/fallback/l/typo_1/r-00.png');
+}
+.wavefunction.fallback.r.typo_1.large.v01 {
+  background-image: url('../img/fallback/l/typo_1/r-01.png');
+}
+.wavefunction.fallback.r.typo_1.large.v02 {
+  background-image: url('../img/fallback/l/typo_1/r-02.png');
+}
+.wavefunction.fallback.r.typo_1.large.v03 {
+  background-image: url('../img/fallback/l/typo_1/r-03.png');
+}
+.wavefunction.fallback.r.typo_1.large.v04 {
+  background-image: url('../img/fallback/l/typo_1/r-04.png');
+}
+.wavefunction.fallback.r.typo_1.large.v05 {
+  background-image: url('../img/fallback/l/typo_1/r-05.png');
+}
+.wavefunction.fallback.r.typo_1.large.v06 {
+  background-image: url('../img/fallback/l/typo_1/r-06.png');
+}
+.wavefunction.fallback.r.typo_1.large.v07 {
+  background-image: url('../img/fallback/l/typo_1/r-07.png');
+}
+.wavefunction.fallback.r.typo_1.large.v08 {
+  background-image: url('../img/fallback/l/typo_1/r-08.png');
+}
+.wavefunction.fallback.r.typo_1.large.v09 {
+  background-image: url('../img/fallback/l/typo_1/r-09.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v00 {
+  background-image: url('../img/fallback/m/typo_1/r-00.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v01 {
+  background-image: url('../img/fallback/m/typo_1/r-01.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v02 {
+  background-image: url('../img/fallback/m/typo_1/r-02.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v03 {
+  background-image: url('../img/fallback/m/typo_1/r-03.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v04 {
+  background-image: url('../img/fallback/m/typo_1/r-04.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v05 {
+  background-image: url('../img/fallback/m/typo_1/r-05.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v06 {
+  background-image: url('../img/fallback/m/typo_1/r-06.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v07 {
+  background-image: url('../img/fallback/m/typo_1/r-07.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v08 {
+  background-image: url('../img/fallback/m/typo_1/r-08.png');
+}
+.wavefunction.fallback.r.typo_1.medium.v09 {
+  background-image: url('../img/fallback/m/typo_1/r-09.png');
+}
+.wavefunction.fallback.r.typo_1.small.v00 {
+  background-image: url('../img/fallback/s/typo_1/r-00.png');
+}
+.wavefunction.fallback.r.typo_1.small.v01 {
+  background-image: url('../img/fallback/s/typo_1/r-01.png');
+}
+.wavefunction.fallback.r.typo_1.small.v02 {
+  background-image: url('../img/fallback/s/typo_1/r-02.png');
+}
+.wavefunction.fallback.r.typo_1.small.v03 {
+  background-image: url('../img/fallback/s/typo_1/r-03.png');
+}
+.wavefunction.fallback.r.typo_1.small.v04 {
+  background-image: url('../img/fallback/s/typo_1/r-04.png');
+}
+.wavefunction.fallback.r.typo_1.small.v05 {
+  background-image: url('../img/fallback/s/typo_1/r-05.png');
+}
+.wavefunction.fallback.r.typo_1.small.v06 {
+  background-image: url('../img/fallback/s/typo_1/r-06.png');
+}
+.wavefunction.fallback.r.typo_1.small.v07 {
+  background-image: url('../img/fallback/s/typo_1/r-07.png');
+}
+.wavefunction.fallback.r.typo_1.small.v08 {
+  background-image: url('../img/fallback/s/typo_1/r-08.png');
+}
+.wavefunction.fallback.r.typo_1.small.v09 {
+  background-image: url('../img/fallback/s/typo_1/r-09.png');
+}
+.wavefunction.fallback.r.typo_2.large.v00 {
+  background-image: url('../img/fallback/l/typo_2/r-00.png');
+}
+.wavefunction.fallback.r.typo_2.large.v01 {
+  background-image: url('../img/fallback/l/typo_2/r-01.png');
+}
+.wavefunction.fallback.r.typo_2.large.v02 {
+  background-image: url('../img/fallback/l/typo_2/r-02.png');
+}
+.wavefunction.fallback.r.typo_2.large.v03 {
+  background-image: url('../img/fallback/l/typo_2/r-03.png');
+}
+.wavefunction.fallback.r.typo_2.large.v04 {
+  background-image: url('../img/fallback/l/typo_2/r-04.png');
+}
+.wavefunction.fallback.r.typo_2.large.v05 {
+  background-image: url('../img/fallback/l/typo_2/r-05.png');
+}
+.wavefunction.fallback.r.typo_2.large.v06 {
+  background-image: url('../img/fallback/l/typo_2/r-06.png');
+}
+.wavefunction.fallback.r.typo_2.large.v07 {
+  background-image: url('../img/fallback/l/typo_2/r-07.png');
+}
+.wavefunction.fallback.r.typo_2.large.v08 {
+  background-image: url('../img/fallback/l/typo_2/r-08.png');
+}
+.wavefunction.fallback.r.typo_2.large.v09 {
+  background-image: url('../img/fallback/l/typo_2/r-09.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v00 {
+  background-image: url('../img/fallback/m/typo_2/r-00.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v01 {
+  background-image: url('../img/fallback/m/typo_2/r-01.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v02 {
+  background-image: url('../img/fallback/m/typo_2/r-02.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v03 {
+  background-image: url('../img/fallback/m/typo_2/r-03.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v04 {
+  background-image: url('../img/fallback/m/typo_2/r-04.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v05 {
+  background-image: url('../img/fallback/m/typo_2/r-05.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v06 {
+  background-image: url('../img/fallback/m/typo_2/r-06.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v07 {
+  background-image: url('../img/fallback/m/typo_2/r-07.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v08 {
+  background-image: url('../img/fallback/m/typo_2/r-08.png');
+}
+.wavefunction.fallback.r.typo_2.medium.v09 {
+  background-image: url('../img/fallback/m/typo_2/r-09.png');
+}
+.wavefunction.fallback.r.typo_2.small.v00 {
+  background-image: url('../img/fallback/s/typo_2/r-00.png');
+}
+.wavefunction.fallback.r.typo_2.small.v01 {
+  background-image: url('../img/fallback/s/typo_2/r-01.png');
+}
+.wavefunction.fallback.r.typo_2.small.v02 {
+  background-image: url('../img/fallback/s/typo_2/r-02.png');
+}
+.wavefunction.fallback.r.typo_2.small.v03 {
+  background-image: url('../img/fallback/s/typo_2/r-03.png');
+}
+.wavefunction.fallback.r.typo_2.small.v04 {
+  background-image: url('../img/fallback/s/typo_2/r-04.png');
+}
+.wavefunction.fallback.r.typo_2.small.v05 {
+  background-image: url('../img/fallback/s/typo_2/r-05.png');
+}
+.wavefunction.fallback.r.typo_2.small.v06 {
+  background-image: url('../img/fallback/s/typo_2/r-06.png');
+}
+.wavefunction.fallback.r.typo_2.small.v07 {
+  background-image: url('../img/fallback/s/typo_2/r-07.png');
+}
+.wavefunction.fallback.r.typo_2.small.v08 {
+  background-image: url('../img/fallback/s/typo_2/r-08.png');
+}
+.wavefunction.fallback.r.typo_2.small.v09 {
+  background-image: url('../img/fallback/s/typo_2/r-09.png');
+}
+.wavefunction.fallback.r.blank.large.v00 {
+  background-image: url('../img/fallback/l/blank/r-00.png');
+}
+.wavefunction.fallback.r.blank.large.v01 {
+  background-image: url('../img/fallback/l/blank/r-01.png');
+}
+.wavefunction.fallback.r.blank.large.v02 {
+  background-image: url('../img/fallback/l/blank/r-02.png');
+}
+.wavefunction.fallback.r.blank.large.v03 {
+  background-image: url('../img/fallback/l/blank/r-03.png');
+}
+.wavefunction.fallback.r.blank.large.v04 {
+  background-image: url('../img/fallback/l/blank/r-04.png');
+}
+.wavefunction.fallback.r.blank.large.v05 {
+  background-image: url('../img/fallback/l/blank/r-05.png');
+}
+.wavefunction.fallback.r.blank.large.v06 {
+  background-image: url('../img/fallback/l/blank/r-06.png');
+}
+.wavefunction.fallback.r.blank.large.v07 {
+  background-image: url('../img/fallback/l/blank/r-07.png');
+}
+.wavefunction.fallback.r.blank.large.v08 {
+  background-image: url('../img/fallback/l/blank/r-08.png');
+}
+.wavefunction.fallback.r.blank.large.v09 {
+  background-image: url('../img/fallback/l/blank/r-09.png');
+}
+.wavefunction.fallback.r.blank.medium.v00 {
+  background-image: url('../img/fallback/m/blank/r-00.png');
+}
+.wavefunction.fallback.r.blank.medium.v01 {
+  background-image: url('../img/fallback/m/blank/r-01.png');
+}
+.wavefunction.fallback.r.blank.medium.v02 {
+  background-image: url('../img/fallback/m/blank/r-02.png');
+}
+.wavefunction.fallback.r.blank.medium.v03 {
+  background-image: url('../img/fallback/m/blank/r-03.png');
+}
+.wavefunction.fallback.r.blank.medium.v04 {
+  background-image: url('../img/fallback/m/blank/r-04.png');
+}
+.wavefunction.fallback.r.blank.medium.v05 {
+  background-image: url('../img/fallback/m/blank/r-05.png');
+}
+.wavefunction.fallback.r.blank.medium.v06 {
+  background-image: url('../img/fallback/m/blank/r-06.png');
+}
+.wavefunction.fallback.r.blank.medium.v07 {
+  background-image: url('../img/fallback/m/blank/r-07.png');
+}
+.wavefunction.fallback.r.blank.medium.v08 {
+  background-image: url('../img/fallback/m/blank/r-08.png');
+}
+.wavefunction.fallback.r.blank.medium.v09 {
+  background-image: url('../img/fallback/m/blank/r-09.png');
+}
+.wavefunction.fallback.r.blank.small.v00 {
+  background-image: url('../img/fallback/s/blank/r-00.png');
+}
+.wavefunction.fallback.r.blank.small.v01 {
+  background-image: url('../img/fallback/s/blank/r-01.png');
+}
+.wavefunction.fallback.r.blank.small.v02 {
+  background-image: url('../img/fallback/s/blank/r-02.png');
+}
+.wavefunction.fallback.r.blank.small.v03 {
+  background-image: url('../img/fallback/s/blank/r-03.png');
+}
+.wavefunction.fallback.r.blank.small.v04 {
+  background-image: url('../img/fallback/s/blank/r-04.png');
+}
+.wavefunction.fallback.r.blank.small.v05 {
+  background-image: url('../img/fallback/s/blank/r-05.png');
+}
+.wavefunction.fallback.r.blank.small.v06 {
+  background-image: url('../img/fallback/s/blank/r-06.png');
+}
+.wavefunction.fallback.r.blank.small.v07 {
+  background-image: url('../img/fallback/s/blank/r-07.png');
+}
+.wavefunction.fallback.r.blank.small.v08 {
+  background-image: url('../img/fallback/s/blank/r-08.png');
+}
+.wavefunction.fallback.r.blank.small.v09 {
+  background-image: url('../img/fallback/s/blank/r-09.png');
+}
+.wavefunction.fallback.y {
+  background-color: #fbc700;
+}
+.wavefunction.fallback.y.transparent {
+  background-color: transparent;
+}
+.wavefunction.fallback.y.typo_1.large.v00 {
+  background-image: url('../img/fallback/l/typo_1/y-00.png');
+}
+.wavefunction.fallback.y.typo_1.large.v01 {
+  background-image: url('../img/fallback/l/typo_1/y-01.png');
+}
+.wavefunction.fallback.y.typo_1.large.v02 {
+  background-image: url('../img/fallback/l/typo_1/y-02.png');
+}
+.wavefunction.fallback.y.typo_1.large.v03 {
+  background-image: url('../img/fallback/l/typo_1/y-03.png');
+}
+.wavefunction.fallback.y.typo_1.large.v04 {
+  background-image: url('../img/fallback/l/typo_1/y-04.png');
+}
+.wavefunction.fallback.y.typo_1.large.v05 {
+  background-image: url('../img/fallback/l/typo_1/y-05.png');
+}
+.wavefunction.fallback.y.typo_1.large.v06 {
+  background-image: url('../img/fallback/l/typo_1/y-06.png');
+}
+.wavefunction.fallback.y.typo_1.large.v07 {
+  background-image: url('../img/fallback/l/typo_1/y-07.png');
+}
+.wavefunction.fallback.y.typo_1.large.v08 {
+  background-image: url('../img/fallback/l/typo_1/y-08.png');
+}
+.wavefunction.fallback.y.typo_1.large.v09 {
+  background-image: url('../img/fallback/l/typo_1/y-09.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v00 {
+  background-image: url('../img/fallback/m/typo_1/y-00.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v01 {
+  background-image: url('../img/fallback/m/typo_1/y-01.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v02 {
+  background-image: url('../img/fallback/m/typo_1/y-02.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v03 {
+  background-image: url('../img/fallback/m/typo_1/y-03.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v04 {
+  background-image: url('../img/fallback/m/typo_1/y-04.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v05 {
+  background-image: url('../img/fallback/m/typo_1/y-05.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v06 {
+  background-image: url('../img/fallback/m/typo_1/y-06.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v07 {
+  background-image: url('../img/fallback/m/typo_1/y-07.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v08 {
+  background-image: url('../img/fallback/m/typo_1/y-08.png');
+}
+.wavefunction.fallback.y.typo_1.medium.v09 {
+  background-image: url('../img/fallback/m/typo_1/y-09.png');
+}
+.wavefunction.fallback.y.typo_1.small.v00 {
+  background-image: url('../img/fallback/s/typo_1/y-00.png');
+}
+.wavefunction.fallback.y.typo_1.small.v01 {
+  background-image: url('../img/fallback/s/typo_1/y-01.png');
+}
+.wavefunction.fallback.y.typo_1.small.v02 {
+  background-image: url('../img/fallback/s/typo_1/y-02.png');
+}
+.wavefunction.fallback.y.typo_1.small.v03 {
+  background-image: url('../img/fallback/s/typo_1/y-03.png');
+}
+.wavefunction.fallback.y.typo_1.small.v04 {
+  background-image: url('../img/fallback/s/typo_1/y-04.png');
+}
+.wavefunction.fallback.y.typo_1.small.v05 {
+  background-image: url('../img/fallback/s/typo_1/y-05.png');
+}
+.wavefunction.fallback.y.typo_1.small.v06 {
+  background-image: url('../img/fallback/s/typo_1/y-06.png');
+}
+.wavefunction.fallback.y.typo_1.small.v07 {
+  background-image: url('../img/fallback/s/typo_1/y-07.png');
+}
+.wavefunction.fallback.y.typo_1.small.v08 {
+  background-image: url('../img/fallback/s/typo_1/y-08.png');
+}
+.wavefunction.fallback.y.typo_1.small.v09 {
+  background-image: url('../img/fallback/s/typo_1/y-09.png');
+}
+.wavefunction.fallback.y.typo_2.large.v00 {
+  background-image: url('../img/fallback/l/typo_2/y-00.png');
+}
+.wavefunction.fallback.y.typo_2.large.v01 {
+  background-image: url('../img/fallback/l/typo_2/y-01.png');
+}
+.wavefunction.fallback.y.typo_2.large.v02 {
+  background-image: url('../img/fallback/l/typo_2/y-02.png');
+}
+.wavefunction.fallback.y.typo_2.large.v03 {
+  background-image: url('../img/fallback/l/typo_2/y-03.png');
+}
+.wavefunction.fallback.y.typo_2.large.v04 {
+  background-image: url('../img/fallback/l/typo_2/y-04.png');
+}
+.wavefunction.fallback.y.typo_2.large.v05 {
+  background-image: url('../img/fallback/l/typo_2/y-05.png');
+}
+.wavefunction.fallback.y.typo_2.large.v06 {
+  background-image: url('../img/fallback/l/typo_2/y-06.png');
+}
+.wavefunction.fallback.y.typo_2.large.v07 {
+  background-image: url('../img/fallback/l/typo_2/y-07.png');
+}
+.wavefunction.fallback.y.typo_2.large.v08 {
+  background-image: url('../img/fallback/l/typo_2/y-08.png');
+}
+.wavefunction.fallback.y.typo_2.large.v09 {
+  background-image: url('../img/fallback/l/typo_2/y-09.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v00 {
+  background-image: url('../img/fallback/m/typo_2/y-00.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v01 {
+  background-image: url('../img/fallback/m/typo_2/y-01.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v02 {
+  background-image: url('../img/fallback/m/typo_2/y-02.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v03 {
+  background-image: url('../img/fallback/m/typo_2/y-03.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v04 {
+  background-image: url('../img/fallback/m/typo_2/y-04.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v05 {
+  background-image: url('../img/fallback/m/typo_2/y-05.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v06 {
+  background-image: url('../img/fallback/m/typo_2/y-06.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v07 {
+  background-image: url('../img/fallback/m/typo_2/y-07.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v08 {
+  background-image: url('../img/fallback/m/typo_2/y-08.png');
+}
+.wavefunction.fallback.y.typo_2.medium.v09 {
+  background-image: url('../img/fallback/m/typo_2/y-09.png');
+}
+.wavefunction.fallback.y.typo_2.small.v00 {
+  background-image: url('../img/fallback/s/typo_2/y-00.png');
+}
+.wavefunction.fallback.y.typo_2.small.v01 {
+  background-image: url('../img/fallback/s/typo_2/y-01.png');
+}
+.wavefunction.fallback.y.typo_2.small.v02 {
+  background-image: url('../img/fallback/s/typo_2/y-02.png');
+}
+.wavefunction.fallback.y.typo_2.small.v03 {
+  background-image: url('../img/fallback/s/typo_2/y-03.png');
+}
+.wavefunction.fallback.y.typo_2.small.v04 {
+  background-image: url('../img/fallback/s/typo_2/y-04.png');
+}
+.wavefunction.fallback.y.typo_2.small.v05 {
+  background-image: url('../img/fallback/s/typo_2/y-05.png');
+}
+.wavefunction.fallback.y.typo_2.small.v06 {
+  background-image: url('../img/fallback/s/typo_2/y-06.png');
+}
+.wavefunction.fallback.y.typo_2.small.v07 {
+  background-image: url('../img/fallback/s/typo_2/y-07.png');
+}
+.wavefunction.fallback.y.typo_2.small.v08 {
+  background-image: url('../img/fallback/s/typo_2/y-08.png');
+}
+.wavefunction.fallback.y.typo_2.small.v09 {
+  background-image: url('../img/fallback/s/typo_2/y-09.png');
+}
+.wavefunction.fallback.y.blank.large.v00 {
+  background-image: url('../img/fallback/l/blank/y-00.png');
+}
+.wavefunction.fallback.y.blank.large.v01 {
+  background-image: url('../img/fallback/l/blank/y-01.png');
+}
+.wavefunction.fallback.y.blank.large.v02 {
+  background-image: url('../img/fallback/l/blank/y-02.png');
+}
+.wavefunction.fallback.y.blank.large.v03 {
+  background-image: url('../img/fallback/l/blank/y-03.png');
+}
+.wavefunction.fallback.y.blank.large.v04 {
+  background-image: url('../img/fallback/l/blank/y-04.png');
+}
+.wavefunction.fallback.y.blank.large.v05 {
+  background-image: url('../img/fallback/l/blank/y-05.png');
+}
+.wavefunction.fallback.y.blank.large.v06 {
+  background-image: url('../img/fallback/l/blank/y-06.png');
+}
+.wavefunction.fallback.y.blank.large.v07 {
+  background-image: url('../img/fallback/l/blank/y-07.png');
+}
+.wavefunction.fallback.y.blank.large.v08 {
+  background-image: url('../img/fallback/l/blank/y-08.png');
+}
+.wavefunction.fallback.y.blank.large.v09 {
+  background-image: url('../img/fallback/l/blank/y-09.png');
+}
+.wavefunction.fallback.y.blank.medium.v00 {
+  background-image: url('../img/fallback/m/blank/y-00.png');
+}
+.wavefunction.fallback.y.blank.medium.v01 {
+  background-image: url('../img/fallback/m/blank/y-01.png');
+}
+.wavefunction.fallback.y.blank.medium.v02 {
+  background-image: url('../img/fallback/m/blank/y-02.png');
+}
+.wavefunction.fallback.y.blank.medium.v03 {
+  background-image: url('../img/fallback/m/blank/y-03.png');
+}
+.wavefunction.fallback.y.blank.medium.v04 {
+  background-image: url('../img/fallback/m/blank/y-04.png');
+}
+.wavefunction.fallback.y.blank.medium.v05 {
+  background-image: url('../img/fallback/m/blank/y-05.png');
+}
+.wavefunction.fallback.y.blank.medium.v06 {
+  background-image: url('../img/fallback/m/blank/y-06.png');
+}
+.wavefunction.fallback.y.blank.medium.v07 {
+  background-image: url('../img/fallback/m/blank/y-07.png');
+}
+.wavefunction.fallback.y.blank.medium.v08 {
+  background-image: url('../img/fallback/m/blank/y-08.png');
+}
+.wavefunction.fallback.y.blank.medium.v09 {
+  background-image: url('../img/fallback/m/blank/y-09.png');
+}
+.wavefunction.fallback.y.blank.small.v00 {
+  background-image: url('../img/fallback/s/blank/y-00.png');
+}
+.wavefunction.fallback.y.blank.small.v01 {
+  background-image: url('../img/fallback/s/blank/y-01.png');
+}
+.wavefunction.fallback.y.blank.small.v02 {
+  background-image: url('../img/fallback/s/blank/y-02.png');
+}
+.wavefunction.fallback.y.blank.small.v03 {
+  background-image: url('../img/fallback/s/blank/y-03.png');
+}
+.wavefunction.fallback.y.blank.small.v04 {
+  background-image: url('../img/fallback/s/blank/y-04.png');
+}
+.wavefunction.fallback.y.blank.small.v05 {
+  background-image: url('../img/fallback/s/blank/y-05.png');
+}
+.wavefunction.fallback.y.blank.small.v06 {
+  background-image: url('../img/fallback/s/blank/y-06.png');
+}
+.wavefunction.fallback.y.blank.small.v07 {
+  background-image: url('../img/fallback/s/blank/y-07.png');
+}
+.wavefunction.fallback.y.blank.small.v08 {
+  background-image: url('../img/fallback/s/blank/y-08.png');
+}
+.wavefunction.fallback.y.blank.small.v09 {
+  background-image: url('../img/fallback/s/blank/y-09.png');
+}

@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+	background: #3a90c1;
+	color: #333;
+}
+
+body {
+	margin: 40px;
+	font-family: sans-serif;
+}
+
+#branding {
+	display: block;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 0;
+	right: 40px;
+}
+
+#watify-01 {
+	display: block;
+	height: 100%;
+	max-height: 800px;
+	overflow: hidden;
+}
+
+.tutorial {
+	overflow: hidden;
+	padding: 20px;
+	background: #eaeaea;
+	margin: 20px 0;
+	border-radius: 8px;
+	
+	font-family: monospace;
+}
+
+.tutorial pre {
+	padding: 20px;
+	background: #ccc;
+	border-radius: 8px;
+}
+
+@media screen and (max-width:765px) {
+	#branding {
+		display: none;
+	}
+}

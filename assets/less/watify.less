@@ -1,0 +1,98 @@
+/*
+ *	Watify.js
+ *
+ *	Image based fallback
+ */
+ 
+@blue: #3a90c1;
+@yellow: #fbc700;
+@red: #e51935;
+@green: #00a285;
+
+.wavefunction {
+
+	&.fallback {
+		// img replacement
+		text-indent: -5000em;
+		overflow: hidden;
+		
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center center;
+		
+		// blue
+		&.b {
+			background-color: @blue;
+			.generateFallback('b', 10);			
+		}
+		
+		// green
+		&.g {
+			background-color: @green;
+			.generateFallback('g', 10);
+		}
+		
+		// red
+		&.r {
+			background-color: @red;
+			.generateFallback('r', 10);
+		}
+		
+		// yellow
+		&.y {
+			background-color: @yellow;
+			.generateFallback('y', 10);
+		}
+		
+	}
+	
+}
+
+.generateFallback(@color, @count) {
+	&.transparent {
+		background-color: transparent;
+	}
+
+	&.typo_1 {
+		&.large {
+			.generateBackgroundImages('../img/fallback/l/typo_1/@{color}-0', @count);
+		}
+		&.medium {
+			.generateBackgroundImages('../img/fallback/m/typo_1/@{color}-0', @count);
+		}
+		&.small {
+			.generateBackgroundImages('../img/fallback/s/typo_1/@{color}-0', @count);
+		}
+	}
+	
+	&.typo_2 {
+		&.large {
+			.generateBackgroundImages('../img/fallback/l/typo_2/@{color}-0', @count);
+		}
+		&.medium {
+			.generateBackgroundImages('../img/fallback/m/typo_2/@{color}-0', @count);
+		}
+		&.small {
+			.generateBackgroundImages('../img/fallback/s/typo_2/@{color}-0', @count);
+		}
+	}
+	
+	&.blank {
+		&.large {
+			.generateBackgroundImages('../img/fallback/l/blank/@{color}-0', @count);
+		}
+		&.medium {
+			.generateBackgroundImages('../img/fallback/m/blank/@{color}-0', @count);
+		}
+		&.small {
+			.generateBackgroundImages('../img/fallback/s/blank/@{color}-0', @count);
+		}
+	}
+}
+
+.generateBackgroundImages(@src, @count, @i:0) when (@i < @count) {
+	&.v0@{i} {
+		background-image: url('@{src}@{i}.png');
+	}
+	.generateBackgroundImages(@src, @count, @i + 1);
+}
