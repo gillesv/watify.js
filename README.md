@@ -30,17 +30,21 @@ How to use
 
 In the HEAD of your document:
 
-> <script src="PATH/TO/modernizr.js"></script>
-> <script>
-> 		Modernizr.load([
-> 			'//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js',
-> 			'assets/js/watify.js'
-> 		]);
-> </script>
+```
+<script src="PATH/TO/modernizr.js"></script>
+<script>
+		Modernizr.load([
+			'//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js',
+			'assets/js/watify.js'
+		]);
+</script>
+```
 
 And then in your document's BODY you can put:
 
-> <div class="wavefunction"></div>
+```
+<div class="wavefunction"></div>
+```
 
 wherever you want a **Watify** symbol to show up. 
 
@@ -50,7 +54,9 @@ wherever you want a **Watify** symbol to show up.
 
 **Watify.js** does not require CSS to function, but if you need to support older browsers that lack HTML5 canvas support, you must include the *watify.css* file (found in */assets/css/*), and also make sure the pre-generated fallback images (found in */assets/img/fallback/*) are uploaded.
 
-> <link rel="stylesheet" href="assets/css/watify.css" />
+```
+<link rel="stylesheet" href="assets/css/watify.css" />
+```
 
 Should you wish to modify the contents of *watify.css*, you'll find the source *.less* file in */assets/less/watify.less*. 
 
@@ -60,16 +66,18 @@ Should you wish to modify the contents of *watify.css*, you'll find the source *
 
 The appearance and behaviour of the **Watify** symbol can be customised using HTML5 data-* attributes. The following attributes are supported:
 
-> <div class="wavefunction"
->  data-typo="true|false"
->  data-tagline="true|false"
->  data-cansave="false|true"
->  data-animated="false|true"
->  data-transparent="true|false"
->  data-color="blue|red|yellow|green"
->  data-resizable="true|false"
->  data-keyframedistance="240"
->  ></div>
+```
+<div class="wavefunction"
+ data-typo="true|false"
+ data-tagline="true|false"
+ data-cansave="false|true"
+ data-animated="false|true"
+ data-transparent="true|false"
+ data-color="blue|red|yellow|green"
+ data-resizable="true|false"
+ data-keyframedistance="240"
+></div>
+```
 
 Each property's default values are listed first. These values are used whenever no data-* attribute is provided.
 
